@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Maycol Lozano 👋
 
-<!--
-**Maycol-Lozano/Maycol-Lozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Software** de 19 años, enfocado en el desarrollo de aplicaciones web y móviles. Me apasiona transformar ideas en software funcional, escalable y con interfaces limpias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** JavaScript, Python, HTML5, CSS3
+- **Frontend / Móvil:** React Native, Expo Router, Tailwind CSS
+- **Base de Datos:** SQLite, PostgreSQL, Pandas
+- **Herramientas:** Git, GitHub, VS Code, Google Colab
+
+---
+
+### 🚀 Sobre mí
+
+- 🎓 Estudiando la carrera de **Ingeniería de Software**.
+- 💡 Construyendo proyectos de persistencia de datos, gestión local y exportación de archivos.
+- 🎯 Mi objetivo es seguir perfeccionando arquitecturas limpias y desarrollo full-stack.
+
+---
+
+📫 **¡Conectemos!**
+- **GitHub:** [Maycol-Lozano](https://github.com/Maycol-Lozano)
